@@ -76,6 +76,7 @@ button { cursor: pointer; font-family: inherit; }
   padding: var(--space-md);
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
 .nav {
   display: flex;
   justify-content: space-between;
